@@ -1,0 +1,36 @@
+C:\Users\Azat\Desktop\visual studio works\WinFormsApp2\WinFormsApp2\bin\Debug\net5.0-windows\WinFormsApp2.exe
+C:\Users\Azat\Desktop\visual studio works\WinFormsApp2\WinFormsApp2\bin\Debug\net5.0-windows\WinFormsApp2.deps.json
+C:\Users\Azat\Desktop\visual studio works\WinFormsApp2\WinFormsApp2\bin\Debug\net5.0-windows\WinFormsApp2.runtimeconfig.json
+C:\Users\Azat\Desktop\visual studio works\WinFormsApp2\WinFormsApp2\bin\Debug\net5.0-windows\WinFormsApp2.runtimeconfig.dev.json
+C:\Users\Azat\Desktop\visual studio works\WinFormsApp2\WinFormsApp2\bin\Debug\net5.0-windows\WinFormsApp2.dll
+C:\Users\Azat\Desktop\visual studio works\WinFormsApp2\WinFormsApp2\bin\Debug\net5.0-windows\WinFormsApp2.pdb
+C:\Users\Azat\Desktop\visual studio works\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.csproj.AssemblyReference.cache
+C:\Users\Azat\Desktop\visual studio works\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.Form1.resources
+C:\Users\Azat\Desktop\visual studio works\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.csproj.GenerateResource.cache
+C:\Users\Azat\Desktop\visual studio works\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Azat\Desktop\visual studio works\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.AssemblyInfoInputs.cache
+C:\Users\Azat\Desktop\visual studio works\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.AssemblyInfo.cs
+C:\Users\Azat\Desktop\visual studio works\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\Azat\Desktop\visual studio works\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.dll
+C:\Users\Azat\Desktop\visual studio works\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\refint\WinFormsApp2.dll
+C:\Users\Azat\Desktop\visual studio works\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.pdb
+C:\Users\Azat\Desktop\visual studio works\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.genruntimeconfig.cache
+C:\Users\Azat\Desktop\visual studio works\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\ref\WinFormsApp2.dll
+C:\Users\Azat\Desktop\yedek lenovo bilgisayar\visual studio works\WinFormsApp2\WinFormsApp2\bin\Debug\net5.0-windows\WinFormsApp2.exe
+C:\Users\Azat\Desktop\yedek lenovo bilgisayar\visual studio works\WinFormsApp2\WinFormsApp2\bin\Debug\net5.0-windows\WinFormsApp2.deps.json
+C:\Users\Azat\Desktop\yedek lenovo bilgisayar\visual studio works\WinFormsApp2\WinFormsApp2\bin\Debug\net5.0-windows\WinFormsApp2.runtimeconfig.json
+C:\Users\Azat\Desktop\yedek lenovo bilgisayar\visual studio works\WinFormsApp2\WinFormsApp2\bin\Debug\net5.0-windows\WinFormsApp2.runtimeconfig.dev.json
+C:\Users\Azat\Desktop\yedek lenovo bilgisayar\visual studio works\WinFormsApp2\WinFormsApp2\bin\Debug\net5.0-windows\WinFormsApp2.dll
+C:\Users\Azat\Desktop\yedek lenovo bilgisayar\visual studio works\WinFormsApp2\WinFormsApp2\bin\Debug\net5.0-windows\WinFormsApp2.pdb
+C:\Users\Azat\Desktop\yedek lenovo bilgisayar\visual studio works\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.csproj.AssemblyReference.cache
+C:\Users\Azat\Desktop\yedek lenovo bilgisayar\visual studio works\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.Form1.resources
+C:\Users\Azat\Desktop\yedek lenovo bilgisayar\visual studio works\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.csproj.GenerateResource.cache
+C:\Users\Azat\Desktop\yedek lenovo bilgisayar\visual studio works\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Azat\Desktop\yedek lenovo bilgisayar\visual studio works\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.AssemblyInfoInputs.cache
+C:\Users\Azat\Desktop\yedek lenovo bilgisayar\visual studio works\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.AssemblyInfo.cs
+C:\Users\Azat\Desktop\yedek lenovo bilgisayar\visual studio works\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\Azat\Desktop\yedek lenovo bilgisayar\visual studio works\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.dll
+C:\Users\Azat\Desktop\yedek lenovo bilgisayar\visual studio works\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\refint\WinFormsApp2.dll
+C:\Users\Azat\Desktop\yedek lenovo bilgisayar\visual studio works\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.pdb
+C:\Users\Azat\Desktop\yedek lenovo bilgisayar\visual studio works\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.genruntimeconfig.cache
+C:\Users\Azat\Desktop\yedek lenovo bilgisayar\visual studio works\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\ref\WinFormsApp2.dll

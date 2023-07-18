@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ETzomOLted4Tmg00VZOg2dFM7WLS8uB2mFi/3gAO/urbpkj8ITNhMSY8MOflKJaCWKyq8kyMfDHZLmxH1wHyrA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Azat\\Desktop\\yedek lenovo bilgisayar\\visual studio works\\WinFormsApp2\\WinFormsApp2\\WinFormsApp2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Azat\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Azat\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Azat\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Azat\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
